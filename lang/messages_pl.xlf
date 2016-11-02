@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="cee9a1765db9ad1b440406cee88f743bad1f93e0" datatype="html">
+        <source>Login form</source>
+        <target>Formularz logowania</target>
+        <note priority="1" from="description">header</note>
+      </trans-unit>
+      <trans-unit id="244aae9346da82b0922506c2d2581373a15641cc" datatype="html">
+        <source>Email</source>
+        <target>Email</target>
+      </trans-unit>
+      <trans-unit id="0b892c7805a1c5afc0b7c21c3449760860fe7f3d" datatype="html">
+        <source>Your email</source>
+        <target>Twój email</target>
+      </trans-unit>
+      <trans-unit id="c32ef07f8803a223a83ed17024b38e8d82292407" datatype="html">
+        <source>Password</source>
+        <target>Hasło</target>
+      </trans-unit>
+      <trans-unit id="656891694a50cdda356e1bdeaef520fe7f6604f9" datatype="html">
+        <source>If you want to search something, go to <x id="START_LINK" ctype="x-a"/>Google<x id="CLOSE_LINK" ctype="x-a"/></source>
+        <target>Jeśli chcesz czegoś poszukać, spróbuj w <x id="START_LINK" ctype="x-a"/>Google<x id="CLOSE_LINK" ctype="x-a"/></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
