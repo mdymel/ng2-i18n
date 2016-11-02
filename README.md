@@ -1,0 +1,1 @@
+Sample project showing how to implement i18n with angular2. 
